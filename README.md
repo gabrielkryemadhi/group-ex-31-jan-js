@@ -1,4 +1,6 @@
 
+Start working in the main.js file.
+
 Create an array of five students. A student object will look like this:
 {
     name: "Name here",
